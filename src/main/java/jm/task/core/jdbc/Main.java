@@ -15,6 +15,10 @@ public class Main {
         userService.removeUserById(2);
         userService.cleanUsersTable();
         userService.dropUsersTable();
+
+
+
+
     }
 
 
